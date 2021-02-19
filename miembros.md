@@ -17,3 +17,4 @@
 * Vision
 * Wasp
 * Jessica Jones 
+* Personaje_inventado
